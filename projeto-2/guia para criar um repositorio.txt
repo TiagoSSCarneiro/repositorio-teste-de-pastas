@@ -1,0 +1,17 @@
+Passo 1- Criar o repositorio no Git/Hub
+
+Passo 2- Copiar o link do repositorio
+
+Passo 3- Dá um git-bush na local desejado na maquina;
+
+Passo 4- comando git clone + link do repositorio
+
+Passo 5 - comando cd e o nome da pasta que foi criada
+
+Passo 6 - Depois de criado varios arquivos que desejar, se da o
+comando "git add .", para colocar os arquivos modificados no repositorio.
+
+Passo 7 - Comando "git commit -m "Uma mensagem que explique o reposirio ou modificacoes"
+
+Passo 8 - Comando "git push -u origin main", para subir o arquivo, de fato, para o repositório
+do git. 
